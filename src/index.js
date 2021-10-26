@@ -15,7 +15,7 @@ import './index.css';
 //     );
 //   }
 // }
- 
+// SAMPLE EDIT TO GITHUB
 
 // Function Component - CONVERTED
 const Square = props => {
